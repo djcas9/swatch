@@ -9,7 +9,7 @@ Swatch is a Mac OSX appliation for simple color manipulation. I wanted somethign
 
 # Download
 
-  * Mac OSX
+  * Mac OSX - https://github.com/mephux/swatch/raw/master/builds/macosx-Swatch.zip
 
 # Building
 
