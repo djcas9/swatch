@@ -1,0 +1,24 @@
+{
+  "name": "swatch",
+  "main": "index.html",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "peerDependencies": {},
+  "dependencies": {},
+  "nodejs": true,
+  "webkit": {
+    "plugin": false
+  },
+  "window": {
+    "show": true,
+    "frame": false,
+    "icon": "images/logo.png",
+    "position": "center",
+    "width": 250,
+    "min_width": 250,
+    "height": 330,
+    "min_height": 330,
+    "resizable": false,
+    "show_in_taskbar": true
+  }
+}
