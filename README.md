@@ -4,6 +4,9 @@ Swatch is a Mac OSX appliation for simple color manipulation. I wanted somethign
 
 # Looks
 
+![](https://raw.githubusercontent.com/mephux/swatch/master/app/styles/images/1.png)
+![](https://raw.githubusercontent.com/mephux/swatch/master/app/styles/images/2.png)
+
 # Download
 
   * Mac OSX
