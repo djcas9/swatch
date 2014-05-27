@@ -19,6 +19,7 @@
     "height": 330,
     "min_height": 330,
     "resizable": false,
-    "show_in_taskbar": true
+    "show_in_taskbar": true,
+    "always-on-top": true
   }
 }
